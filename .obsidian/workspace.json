@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "0e7cfb6773ca411a",
+    "type": "split",
+    "children": [
+      {
+        "id": "779f66ca4ddd2c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b71a31d3e06cda7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe0eadf48aedc64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "148b64fe08886027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32f9b2b835df056",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "333d2f5cb60319e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d43ad48dbd0de1c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2c12668b8bee6e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2639a3b9f840c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ad88d2a788cf38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "350f3e9952d4ffd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "329a7012a3725dbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bee5d5424a68946c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e32f9b2b835df056",
+  "lastOpenFiles": [
+    "README.md",
+    "2025 Semester 2 Obsidian Vault/README.md",
+    "2025 Semester 2 Obsidian Vault",
+    "INFS1200/Concepts/Entity-Relationship Model (ER Model).md",
+    "INFS1200/Concepts/Entity.md",
+    "INFS1200/Concepts/Entity Type.md",
+    "INFS1200/Concepts/Value Sets of Attributes.md",
+    "[[Entity-Relationship Model (ER Model)]].md",
+    "ER Model Example.md",
+    "Attachments/Pasted image 20250729120022.png",
+    "Attachments/Pasted image 20250729115026.png",
+    "COMP3506/Concepts/Big-O Notation.md",
+    "INFS1200/Lectures",
+    "INFS1200/Concepts",
+    "ELEC2004/Concepts/Basics of Electrical Systems.md",
+    "COMP3506/Concepts",
+    "ELEC2004/Concepts",
+    "ELEC2004/Concepts/Superposition Method.md",
+    "INFS1200",
+    "ELEC2004/Concepts/Mesh-Current Method.md",
+    "ELEC2004/Concepts/Node-Voltage Method.md",
+    "Excalidraw/Mesh-Current Analysis.png",
+    "Excalidraw/Mesh-Current Analysis.md",
+    "Excalidraw/Nodal Analysis Current Source.png",
+    "Excalidraw/Nodal Analysis Current Source.md",
+    "Excalidraw",
+    "Attachments/Pasted image 20250729111150.png",
+    "Attachments",
+    "COMP3506/Concepts/Big-Theta Notation.md",
+    "ELEC2004",
+    "COMP3506/Drawing 2025-07-29 10.30.52.excalidraw.md",
+    "COMP3506/Concepts/Big-Omega Notation.md",
+    "The.md",
+    "COMP3506",
+    "Welcome.md"
+  ]
+}
