@@ -36,3 +36,7 @@ Easily converted into iterative forms.
 ## Binary Recursion
 
 Two calls for each non-base case
+
+## Multiple Recursion
+
+Multiple recursion makes potentially many recursive calls
