@@ -10,8 +10,11 @@ $$
 n! = 1 \times 2 \times 3 \times 4 \times \dots \times (n-1) \times n
 $$
 The recursive definition:
+$$f(n) =
+\begin{cases}
+1, \text{ if } n=0 \\ \\
+n \cdot f(n-1) \text{ else}
+\end{cases}
 $$
-\begin{}
-
-\end{}
-$$
+## Linear Recursion
+Test for **base cases**
