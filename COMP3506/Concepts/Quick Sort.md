@@ -14,3 +14,10 @@ Conquer: Join $L, E$ and $G$ together again
 
 Worst case for quick-sort occurs when the pivot is the minimum or maximum element
 Running time is proportional to the sum $n +(n-1)+\dots+2+1$
+Thus, the worst case running time of quick-sort is $\mathcal{O}(n^{2})$.
+
+## Expected Running Time
+Consider a recursive call of quick-sort on a sequence of size $s$
+
+### Good Call
+The sizes of $L$ and $G$
