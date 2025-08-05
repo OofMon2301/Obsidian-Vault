@@ -17,4 +17,4 @@ Conquer: Merge the two halves
 
 ### Merging Two Sorted Sequences
 
-*Conquer Step*:
+*Conquer Step*: Merging two sorted sequences, each with $n \div 2$ elements, takes $\mathcal{O}(n)$ time.
