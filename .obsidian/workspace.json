@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3506/Concepts/Sorting Algorithms.md",
+                "file": "COMP3506/Concepts/Merge Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting Algorithms"
+              "title": "Merge Sort"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "active": "8b71a31d3e06cda7",
   "lastOpenFiles": [
     "COMP3506/Concepts/Recursion.md",
+    "COMP3506/Concepts/Merge Sort.md",
     "COMP3506/Concepts/Sorting Algorithms.md",
     "Untitled.md",
     "COMP3506/Concepts/Big-O Notation.md",
