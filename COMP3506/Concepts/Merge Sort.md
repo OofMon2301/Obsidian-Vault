@@ -7,4 +7,14 @@ This is **as good as it gets for worst case sorting**
 	- Based on the "comparison" model
 
 ## Merge Sort
-Sort input sequence
+Sort input sequence $A$ with $n$ elements
+
+Divide: Partition $A$ into two halves
+
+Recur: Recursively sort each half
+
+Conquer: Merge the two halves
+
+### Merging Two Sorted Sequences
+
+*Conquer Step*:
