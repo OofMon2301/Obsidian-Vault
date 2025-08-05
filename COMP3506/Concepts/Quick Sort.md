@@ -36,4 +36,4 @@ Elements greater than the pivot have index greater than $k$.
 
 Recursive calls consider:
 Elements with index less than $h$
-Elements with 
+Elements with index greater than $k$.
