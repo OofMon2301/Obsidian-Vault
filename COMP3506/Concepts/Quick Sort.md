@@ -20,4 +20,9 @@ Thus, the worst case running time of quick-sort is $\mathcal{O}(n^{2})$.
 Consider a recursive call of quick-sort on a sequence of size $s$
 
 ### Good Call
-The sizes of $L$ and $G$
+The sizes of $L$ and $G$ are each less than $3s \div 4$
+
+### Bad Call
+One of $L$ and $G$ has size greater than $3s \div 4$.
+
+Good calls have a probability of $\frac{1}{2}$.
