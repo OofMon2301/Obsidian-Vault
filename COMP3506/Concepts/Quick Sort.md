@@ -9,3 +9,8 @@ $G$ elements less than $x$.
 
 Recur: Sort $L$ and $G$,
 Conquer: Join $L, E$ and $G$ together again
+
+##  Worst-Case Running Time
+
+Worst case for quick-sort occurs when the pivot is the minimum or maximum element
+Running time is proportional to the sum $n +(n-1)+\dots+2+1$
