@@ -29,4 +29,10 @@ We defined array reversal as *reverse_list(A, i, j)*, not *reverse_list(A)*.
 ## Tail Recursion
 
 Recursive call as the **last step**
-Result of the call must be used immediately and directly, or it is **not** a tail 
+Result of the call must be used immediately and directly, or it is **not** a tail recursion
+
+Easily converted into iterative forms.
+
+## Binary Recursion
+
+Two calls for each non-base case
