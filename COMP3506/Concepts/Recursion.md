@@ -20,3 +20,8 @@ $$
 ## Linear Recursion
 Test for **base cases**. Begin by testing for a set of base cases
 Every possible chain of recursive calls *must* eventually reach a base case. 
+
+## Defining Arguments for Recursion
+Recursive methods may requqire **additional parameters**
+
+We defined array reversal as *reve*
