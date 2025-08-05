@@ -26,3 +26,8 @@ The sizes of $L$ and $G$ are each less than $3s \div 4$
 One of $L$ and $G$ has size greater than $3s \div 4$.
 
 Good calls have a probability of $\frac{1}{2}$.
+
+In-Place Quick-Sortl:
+
+In the partition step, use the replace operations to rearrange the elements of the input sequence.
+Elements less than the pivot ha
