@@ -10,7 +10,8 @@ $$
 n! = 1 \times 2 \times 3 \times 4 \times \dots \times (n-1) \times n
 $$
 The recursive definition: 
-$$ f(n) =
+$$ 
+f(n) =
 \begin{cases}
 1, \text{ if } n=0 \\ \\
 n \cdot f(n-1) \text{ else}
@@ -18,5 +19,4 @@ n \cdot f(n-1) \text{ else}
 $$
 ## Linear Recursion
 Test for **base cases**. Begin by testing for a set of base cases
-Every possible chain of recursive calls *must* eventually reach a base case
-This is 
+Every possible chain of recursive calls *must* eventually reach a base case. 
