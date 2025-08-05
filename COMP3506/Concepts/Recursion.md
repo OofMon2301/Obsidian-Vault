@@ -17,4 +17,7 @@ n \cdot f(n-1) \text{ else}
 \end{cases}
 $$
 ## Linear Recursion
-Test for **base cases**
+Test for **base cases**. Begin by testing for a set of base cases
+Every possible chain of recursive calls *must* eventually reach a base case
+This is 
+
