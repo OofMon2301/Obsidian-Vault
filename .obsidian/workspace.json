@@ -11,10 +11,14 @@
             "id": "8b71a31d3e06cda7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "COMP3506/Concepts/Big-O Notation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Big-O Notation"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e32f9b2b835df056",
+  "active": "8b71a31d3e06cda7",
   "lastOpenFiles": [
     "DECO2500",
     "README.md",
