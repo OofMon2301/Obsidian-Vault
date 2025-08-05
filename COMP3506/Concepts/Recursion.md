@@ -5,4 +5,4 @@ tags:
 # Recursion
 
 ## Recursion Pattern
-Recursion
+Recursion: when a method calls itself. A Classic example is factorial function:
