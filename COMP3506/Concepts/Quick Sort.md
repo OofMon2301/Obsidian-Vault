@@ -30,4 +30,10 @@ Good calls have a probability of $\frac{1}{2}$.
 In-Place Quick-Sortl:
 
 In the partition step, use the replace operations to rearrange the elements of the input sequence.
-Elements less than the pivot ha
+Elements less than the pivot have index less than $h$.
+Elements that are equal to the pivot have index between $h$ and $k$.
+Elements greater than the pivot have index greater than $k$.
+
+Recursive calls consider:
+Elements with index less than $h$
+Elements with 
