@@ -158,16 +158,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "8b71a31d3e06cda7",
   "lastOpenFiles": [
+    "COMP3506/Concepts/Big-Theta Notation.md",
+    "COMP3506/Concepts/Big-Omega Notation.md",
+    "COMP3506/Concepts/Big-O Notation.md",
     "DECO2500",
     "README.md",
     "2025 Semester 2 Obsidian Vault/README.md",
@@ -180,7 +186,6 @@
     "ER Model Example.md",
     "Attachments/Pasted image 20250729120022.png",
     "Attachments/Pasted image 20250729115026.png",
-    "COMP3506/Concepts/Big-O Notation.md",
     "INFS1200/Lectures",
     "INFS1200/Concepts",
     "ELEC2004/Concepts/Basics of Electrical Systems.md",
@@ -197,12 +202,9 @@
     "Excalidraw",
     "Attachments/Pasted image 20250729111150.png",
     "Attachments",
-    "COMP3506/Concepts/Big-Theta Notation.md",
     "ELEC2004",
     "COMP3506/Drawing 2025-07-29 10.30.52.excalidraw.md",
-    "COMP3506/Concepts/Big-Omega Notation.md",
     "The.md",
-    "COMP3506",
     "Welcome.md"
   ]
 }
