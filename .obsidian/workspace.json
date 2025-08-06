@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "779f66ca4ddd2c40",
+        "id": "7ad82e5f5031b129",
         "type": "tabs",
         "children": [
           {
-            "id": "8b71a31d3e06cda7",
+            "id": "ae4bc6d59514f759",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e32f9b2b835df056",
+  "active": "ae4bc6d59514f759",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "COMP3506/Concepts/Recursion.md",
+    "COMP3506/Concepts/Quick Sort.md",
+    "COMP3506/Concepts/Merge Sort.md",
     "DECO2500",
     "README.md",
     "2025 Semester 2 Obsidian Vault/README.md",
@@ -201,7 +206,6 @@
     "COMP3506/Drawing 2025-07-29 10.30.52.excalidraw.md",
     "COMP3506/Concepts/Big-Omega Notation.md",
     "The.md",
-    "COMP3506",
     "Welcome.md"
   ]
 }
