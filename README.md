@@ -1,7 +1,6 @@
 # Obsidian Vault
 
 ## Course Lists
-
-[[ELEC2004]]
-[[INFS1200]]
-[[COMP3506]]
+![[COMP3506#^877153]]
+![[ELEC2004#^92c6c7]]
+![[]]
