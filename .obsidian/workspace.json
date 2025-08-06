@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "COMP3506/COMP3506.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "COMP3506"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "COMP3506/COMP3506.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of COMP3506"
             }
           }
         ],
@@ -171,13 +171,15 @@
   },
   "active": "477a84740a246f14",
   "lastOpenFiles": [
+    "README.md",
+    "COMP3506/COMP3506.md",
+    "COMP3506/Attachments",
     "COMP3506/Concepts/Merge Sort.md",
     "COMP3506/Concepts/Recursion.md",
     "COMP3506/Concepts/Quick Sort.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "DECO2500",
-    "README.md",
     "2025 Semester 2 Obsidian Vault/README.md",
     "2025 Semester 2 Obsidian Vault",
     "INFS1200/Concepts/Entity-Relationship Model (ER Model).md",
@@ -206,8 +208,7 @@
     "Attachments/Pasted image 20250729111150.png",
     "Attachments",
     "COMP3506/Concepts/Big-Theta Notation.md",
-    "ELEC2004",
-    "COMP3506/Drawing 2025-07-29 10.30.52.excalidraw.md",
+    "COMP3506/Attachments/Drawing 2025-07-29 10.30.52.excalidraw.md",
     "COMP3506/Concepts/Big-Omega Notation.md",
     "The.md",
     "Welcome.md"
