@@ -1,3 +1,7 @@
+---
+tags:
+  - COMP3506
+---
 # Quick Sort
 
 **Randomised** divide-and-conquer sorting algorithm

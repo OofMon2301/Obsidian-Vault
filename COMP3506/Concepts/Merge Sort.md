@@ -1,3 +1,7 @@
+---
+tags:
+  - COMP3506
+---
 # Merge Sort
 
 Sorting algorithm based on the divide-and-conquer paradigm
