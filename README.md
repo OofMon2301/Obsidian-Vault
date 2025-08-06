@@ -3,4 +3,4 @@
 ## Course Lists
 ![[COMP3506#^877153]]
 ![[ELEC2004#^92c6c7]]
-![[INFS1200#^29d138]] deduumnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnu eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+![[INFS1200#^29d138]]
