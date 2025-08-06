@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELEC2004/ELEC2004.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELEC2004"
+              "title": "README"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELEC2004/ELEC2004.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ELEC2004"
+              "title": "Outline of README"
             }
           }
         ],
@@ -171,8 +171,8 @@
   },
   "active": "477a84740a246f14",
   "lastOpenFiles": [
-    "INFS1200/INFS1200.md",
     "ELEC2004/ELEC2004.md",
+    "INFS1200/INFS1200.md",
     "COMP3506/COMP3506.md",
     "README.md",
     "COMP3506/Attachments",
