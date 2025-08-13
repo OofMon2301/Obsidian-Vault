@@ -12,4 +12,4 @@ There are four basic concepts:
 - Domains
 - Tuples
 
-[[]]
+![[Relations]]
