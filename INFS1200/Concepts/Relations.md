@@ -15,3 +15,8 @@ Relations have specific properties, based on the mathematical *set theory*
 
 ## Domain Types
 
+![[Domain]]
+
+## Attributes
+
+Each attribute A
