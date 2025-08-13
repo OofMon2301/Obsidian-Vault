@@ -24,4 +24,7 @@ Each attribute A is the name of a role played by some domain D in the relation n
 The number of attributes in a relation R is called the *degree* of R
 
 Example: **salary** is an attribute name
-(Each value of the attribute **salary** must belong to the domain of **salary**)
+(Each value of the attribute **salary** must belong to the domain of **salary**, which is integers)
+
+![[Pasted image 20250813122945.png]]
+
