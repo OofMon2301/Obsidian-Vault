@@ -14,3 +14,4 @@ Relations have specific properties, based on the mathematical *set theory*
 ![[Pasted image 20250813121851.png]]
 
 ## Domain Types
+
