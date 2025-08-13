@@ -13,4 +13,7 @@ Each domain has a *data type* or format:
 	- E.g. $1 \leq \text{grade} \leq 7$
 - Enumerated data type
 	- E.g. Gender in {Male, Female, Other}
-- Australian telephone number
+- Australian telephone numbers
+	- Format: the digits "61", followed by 9 digits
+- Car registration numbers
+	- Format: 6 characters (either alphanumeric but no 'Q' allowed)
