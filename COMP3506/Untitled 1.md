@@ -7,3 +7,10 @@ $$
 $$
 
 2.
+
+$$
+\begin{cases}
+n=1  & \mathcal{O}(1) \\
+\text{otherwise}  &  n\log n
+\end{cases}
+$$
