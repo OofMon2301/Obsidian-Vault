@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "821236ee1858e007",
+        "id": "0f7d48af1fc608c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e5d43f90692955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3506/Concepts/Quick Sort.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick Sort"
-            }
-          },
-          {
-            "id": "1904afdaa20835ea",
+            "id": "8a3ca2eeda02c821",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +170,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1904afdaa20835ea",
+  "active": "8a3ca2eeda02c821",
   "lastOpenFiles": [
     "COMP3506/Concepts/Quick Sort.md",
+    "Untitled.md",
     "Untitled 1.md",
     "COMP3506/Concepts/Recursion.md",
     "COMP3506/Concepts/Merge Sort.md",
@@ -206,7 +192,6 @@
     "COMP3506/Attachments/Drawing 2025-07-29 10.30.52.excalidraw.md",
     "COMP3506/Attachments",
     "COMP3506/Concepts/Sorting Algorithms.md",
-    "Untitled.md",
     "COMP3506/Concepts/Big-Theta Notation.md",
     "COMP3506/Concepts/Big-Omega Notation.md",
     "DECO2500",
