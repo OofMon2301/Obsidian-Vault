@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "893c3efbf5614856",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -170,7 +184,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e32f9b2b835df056",
+  "active": "893c3efbf5614856",
   "lastOpenFiles": [
     "COMP3506/Concepts/Quick Sort.md",
     "Untitled.md",
