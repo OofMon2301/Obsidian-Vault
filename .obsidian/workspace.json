@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "INFS1200/Revision/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,8 +173,12 @@
   },
   "active": "754a438039ac630b",
   "lastOpenFiles": [
-    "README.md",
+    "INFS1200/INFS1200.md",
+    "INFS1200/Revision/Untitled.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "INFS1200/Revision",
+    "README.md",
     "2025 Semester 2 Obsidian Vault/README.md",
     "COMP3506/Untitled 1.md",
     "COMP3506/Concepts/Quick Sort.md",
@@ -189,7 +193,6 @@
     "INFS1200/Concepts/Domain.md",
     "Attachments/Pasted image 20250813121851.png",
     "COMP3506/Concepts/Big-O Notation.md",
-    "INFS1200/INFS1200.md",
     "ELEC2004/ELEC2004.md",
     "COMP3506/COMP3506.md",
     "COMP3506/Attachments/Drawing 2025-07-29 10.30.52.excalidraw.md",
@@ -206,15 +209,12 @@
     "Attachments/Pasted image 20250729115026.png",
     "INFS1200/Lectures",
     "INFS1200/Concepts",
-    "ELEC2004/Concepts/Basics of Electrical Systems.md",
     "COMP3506/Concepts",
     "ELEC2004/Concepts",
-    "ELEC2004/Concepts/Superposition Method.md",
     "INFS1200",
     "Excalidraw/Mesh-Current Analysis.png",
     "Excalidraw/Nodal Analysis Current Source.png",
     "Excalidraw",
-    "Attachments/Pasted image 20250729111150.png",
-    "Attachments"
+    "Attachments/Pasted image 20250729111150.png"
   ]
 }
