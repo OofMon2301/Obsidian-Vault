@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFS1200/Revision/Revision - Summary.md",
+                "file": "INFS1200/Modules/Module 4/Revison - Module 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revision - Summary"
+              "title": "Revison - Module 4"
             }
           }
         ]
@@ -173,8 +173,17 @@
   },
   "active": "754a438039ac630b",
   "lastOpenFiles": [
-    "INFS1200/INFS1200.md",
     "INFS1200/Revision/Revision - Summary.md",
+    "INFS1200/Modules/Module 4/Revison - Module 4.md",
+    "INFS1200/Modules/Module 5",
+    "INFS1200/Modules/Module 4",
+    "INFS1200/Modules/Module 3",
+    "INFS1200/Modules/Module 2",
+    "INFS1200/Modules/Module 1",
+    "INFS1200/Modules",
+    "INFS1200/Untitled.base",
+    "INFS1200/Untitled.canvas",
+    "INFS1200/INFS1200.md",
     "Untitled.md",
     "Untitled 1.md",
     "INFS1200/Revision",
@@ -201,20 +210,12 @@
     "COMP3506/Concepts/Big-Theta Notation.md",
     "COMP3506/Concepts/Big-Omega Notation.md",
     "DECO2500",
-    "2025 Semester 2 Obsidian Vault",
     "INFS1200/Concepts/Value Sets of Attributes.md",
     "[[Entity-Relationship Model (ER Model)]].md",
-    "ER Model Example.md",
     "Attachments/Pasted image 20250729120022.png",
     "Attachments/Pasted image 20250729115026.png",
-    "INFS1200/Lectures",
-    "INFS1200/Concepts",
-    "COMP3506/Concepts",
-    "ELEC2004/Concepts",
-    "INFS1200",
     "Excalidraw/Mesh-Current Analysis.png",
     "Excalidraw/Nodal Analysis Current Source.png",
-    "Excalidraw",
     "Attachments/Pasted image 20250729111150.png"
   ]
 }
