@@ -6,4 +6,8 @@ A functional dependency (FD) $X \to Y$ holds on relation $R$ if for every legal 
 $$
 \text{if }t_{1}[X] = t_{2}[X] \to t_{1}[Y] = t_{2}[Y]
 $$
-Example: lel
+Example: Level $\to$ salary (i.e. if two employees have the same level, then they must have the same salary.)
+
+An FD $X \to Y$ is a constraint between two sets of attributes $X$ and $Y$ in a relational schema $R$
+
+It specifies a restrictio
