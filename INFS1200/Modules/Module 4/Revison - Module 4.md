@@ -2,4 +2,8 @@
 
 ## Functional Dependency
 
-A functional dependency (FD) $X \to Y$ holds on relation $R$ if for every legal instance of $R$ suc
+A functional dependency (FD) $X \to Y$ holds on relation $R$ if for every legal instance of $R$ such as $r$, for all tuples $t_{1},t_{2}$:
+$$
+\text{if }t_{1}[X] = t_{2}[X] \to t_{1}[Y] = t_{2}[Y]
+$$
+Example: lel
