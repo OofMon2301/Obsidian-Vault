@@ -10,4 +10,4 @@ Example: Level $\to$ salary (i.e. if two employees have the same level, then the
 
 An FD $X \to Y$ is a constraint between two sets of attributes $X$ and $Y$ in a relational schema $R$
 
-It specifies a restrictio
+It specifies a restriction on the possible tuples that can form a relation instance of $R$.
