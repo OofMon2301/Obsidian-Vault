@@ -10,4 +10,7 @@ aliases:
 
 ![[Gulf of Execution]]
 
+
+
 ![[Gulf of Evaluation]]
+
