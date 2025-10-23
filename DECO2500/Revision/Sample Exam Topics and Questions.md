@@ -27,5 +27,5 @@ aliases:
 
 **Write the answer below here.**
 
-The main reason the increase in [[Gulf of Evaluation]] and [[Gulf of Execution]] is that the current UI of the frequent flyer app is that the labels and the fields for each of the marking schemes and the fil
+The main reason the increase in [[Gulf of Evaluation]] and [[Gulf of Execution]] is that the current UI of the frequent flyer app is that the labels and the fields for each of the marking schemes and the filters are not clear. This is in violation of the [[Gulf of Execution]] as it is not clear where the filtering options are and how to navigate through them.
 
