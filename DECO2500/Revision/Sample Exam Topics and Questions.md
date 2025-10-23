@@ -6,4 +6,4 @@ aliases:
 
 ## Question 1
 ---
-**Asks s**
+**Asks to apply the Gulf of Evaluation and Execution to identify and **
