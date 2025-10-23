@@ -14,3 +14,5 @@ aliases:
 
 ![[Gulf of Evaluation]]
 
+
+**Asks to identify the individual problems and issues, and present improvements that the website could make in order to abide and re**
