@@ -46,3 +46,5 @@ aliases:
 
 ![[Pasted image 20251027084716.png]]
 
+**Asks to explain one theory or principle that the implemented plan is describing.**
+
