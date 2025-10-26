@@ -42,6 +42,6 @@ aliases:
 
 ## Question 2
 ---
-*You have decided to change the design of a button on an interface screen specifically for the functionality of cutting data in a document. Here is the change you are making to that button:*
+*You have decided to change the design of a button on an interface screen specifically for the functionality of cutting data in a document. Here is the change you are making to that button:*sp
 
 ![[Pasted image 20251027084716.png]]
