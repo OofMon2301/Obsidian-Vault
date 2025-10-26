@@ -40,5 +40,8 @@ aliases:
     
 2. **Lack of filtering and comparison features:** Without interactive tools to evaluate results (like sort/filter by price, time, or airline), Sarah cannot easily assess if her goals have been met, widening the gulf of evaluation.
 
-## Questi
+## Question 2
+---
+*You have decided to change the design of a button on an interface screen specifically for the functionality of cutting data in a document. Here is the change you are making to that button:*
+
 ![[Pasted image 20251027084716.png]]
