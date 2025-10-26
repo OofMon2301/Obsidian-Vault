@@ -50,3 +50,15 @@ aliases:
 
 In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heuristic, abiding by *Recall rather than Recognition* as they know that a scissor cuts and it improves visual clutter when sorting a new page.
 
+|   |   |
+|---|---|
+|a)         Identify and explain one theory or principle that is related to your decision to make this change?|[5%]|
+
+|   |   |
+|---|---|
+|b)         Using the theory or principle identified in 3a), explain how that theory or principle works in humans (when thinking about a human as a sub-system of the HCI complex system)?|[5%]|
+
+|   |   |
+|---|---|
+|c)         In terms of making this change to the button, identify four types of people who this change might not work for? Explain why in terms of a human as a sub-system of the HCI complex system?|[10%]|
+
