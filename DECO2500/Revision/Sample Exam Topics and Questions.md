@@ -40,5 +40,5 @@ aliases:
     
 2. **Lack of filtering and comparison features:** Without interactive tools to evaluate results (like sort/filter by price, time, or airline), Sarah cannot easily assess if her goals have been met, widening the gulf of evaluation.
 
-
-
+## Questi
+![[Pasted image 20251027084716.png]]
