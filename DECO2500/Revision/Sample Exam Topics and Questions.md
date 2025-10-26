@@ -62,3 +62,7 @@ In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heu
 |---|---|
 |c)         In terms of making this change to the button, identify four types of people who this change might not work for? Explain why in terms of a human as a sub-system of the HCI complex system?|[10%]|
 
+## Question 3
+---
+**Pick three heuristics from Nielsen’s 10 usability Heuristics. Discuss how each can be applied to evaluate the user experience of a *mobile banking application*. For each heuristic, provide specific examples of potential usability issues that may arise and suggest improvements to address these issues.**
+
