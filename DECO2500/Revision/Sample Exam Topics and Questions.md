@@ -27,5 +27,18 @@ aliases:
 
 **Write the answer below here.**
 
-The main reason the increase in [[Gulf of Evaluation]] and [[Gulf of Execution]] is that the current UI of the frequent flyer app is that the labels and the fields for each of the marking schemes and the filters are not clear. This is in violation of the [[Gulf of Execution]] as it is not clear where the filtering options are and how to navigate through them.
+**[[Gulf of Execution]]:**
+
+1. **Unclear interface mapping:** The changed layout and missing field labels make it difficult for Sarah to identify how to perform her intended action (enter departure and arrival cities). This widens the gulf of execution because the system’s affordances don’t clearly indicate what actions are possible or how to execute them.
+    
+2. **Poor action visibility:** The booking section lacks clarity in what to click or fill out next, meaning the steps to achieve her goal (booking a flight) are not visible or intuitive.
+    
+
+**[[Gulf of Evaluation]]:**
+
+1. **Overwhelming feedback with minimal interpretability:** The dense, unorganised flight list provides feedback (search results) but makes it hard for Sarah to interpret whether the output aligns with her intent (finding the best flight).
+    
+2. **Lack of filtering and comparison features:** Without interactive tools to evaluate results (like sort/filter by price, time, or airline), Sarah cannot easily assess if her goals have been met, widening the gulf of evaluation.
+
+
 
