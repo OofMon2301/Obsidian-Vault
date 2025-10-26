@@ -48,4 +48,5 @@ aliases:
 
 **Asks to explain one theory or principle that the implemented plan is describing.**
 
-In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heur
+In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heuristic, abiding by *Recall rather than Recognition* as they know that a scissor cuts and it improves visual clutter when sorting a new page.
+
