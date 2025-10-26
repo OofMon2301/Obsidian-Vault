@@ -66,6 +66,8 @@ In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heu
 ---
 **Pick three heuristics from Nielsen’s 10 usability Heuristics. Discuss how each can be applied to evaluate the user experience of a *mobile banking application*. For each heuristic, provide specific examples of potential usability issues that may arise and suggest improvements to address these issues.**
 
-*List of any of the 3 (preferably something easy to talk about) and just find something to talk about for each example and such. (For example minima)*
+*List of any of the 3 (preferably something easy to talk about) and just find something to talk about for each example and such. (For example informative but no clutter, mobile banking relies heavily on control and visibility of user status.)*
+
+
 
 **Choose one of the heuristics and explain how failing to address it could lead to significant user frustration or security concerns in the context of mobile banking.**
