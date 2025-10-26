@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DECO2500/Revision/Sample Exam Topics and Questions.md",
+                "file": "DECO2500/Topics/Nielsen's 10 Usability Heuristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Exam Topics and Questions"
+              "title": "Nielsen's 10 Usability Heuristics"
             }
           },
           {
@@ -187,9 +187,10 @@
   },
   "active": "754a438039ac630b",
   "lastOpenFiles": [
+    "DECO2500/Revision/Sample Exam Topics and Questions.md",
+    "DECO2500/Topics/Nielsen's 10 Usability Heuristics.md",
     "Attachments/Pasted image 20251027084716.png",
     "DECO2500/Topics/Gulf of Evaluation.md",
-    "DECO2500/Revision/Sample Exam Topics and Questions.md",
     "DECO2500/Topics/Gulf of Execution.md",
     "gulf of .md",
     "DECO2500/Topics",
