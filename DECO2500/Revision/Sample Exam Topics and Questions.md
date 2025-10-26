@@ -48,4 +48,4 @@ aliases:
 
 **Asks to explain one theory or principle that the implemented plan is describing.**
 
-In terms of [[Nielsen's 10 Usability Heuristics]], 
+In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heur
