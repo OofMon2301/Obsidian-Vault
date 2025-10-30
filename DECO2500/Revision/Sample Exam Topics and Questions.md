@@ -69,5 +69,6 @@ In terms of [[Nielsen's 10 Usability Heuristics]], this complies with the #6 heu
 *List of any of the 3 (preferably something easy to talk about) and just find something to talk about for each example and such. (For example informative but no clutter, mobile banking relies heavily on control and visibility of user status.)*
 
 
-
 **Choose one of the heuristics and explain how failing to address it could lead to significant user frustration or security concerns in the context of mobile banking.**
+
+
