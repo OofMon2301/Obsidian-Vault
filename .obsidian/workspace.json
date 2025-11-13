@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Module 1 - Conceptual Data Modelling"
             }
+          },
+          {
+            "id": "c4626bdc59ad2dab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20251106113217.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251106113217"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,11 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59527cde1a94db24",
+  "active": "c4626bdc59ad2dab",
   "lastOpenFiles": [
+    "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
     "Attachments/Pasted image 20251106113217.png",
     "INFS1200/Concepts/Domain.md",
-    "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
     "INFS1200/Concepts/Entity.md",
     "INFS1200/Concepts/Entity Type.md",
     "INFS1200/Concepts/Entity-Relationship Model (ER Model).md",
