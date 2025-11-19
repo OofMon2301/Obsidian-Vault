@@ -32,9 +32,21 @@
               "icon": "lucide-image",
               "title": "Pasted image 20251106113217"
             }
+          },
+          {
+            "id": "0a92743de3bcb695",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4626bdc59ad2dab",
+  "active": "0a92743de3bcb695",
   "lastOpenFiles": [
     "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
     "Attachments/Pasted image 20251106113217.png",
