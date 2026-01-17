@@ -20,45 +20,8 @@
               "icon": "lucide-file",
               "title": "Module 1 - Conceptual Data Modelling"
             }
-          },
-          {
-            "id": "c4626bdc59ad2dab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20251106113217.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251106113217"
-            }
-          },
-          {
-            "id": "0a92743de3bcb695",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "e34109b7f716a7c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +171,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e34109b7f716a7c0",
+  "active": "59527cde1a94db24",
   "lastOpenFiles": [
-    "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
     "Attachments/Pasted image 20251106113217.png",
+    "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
     "INFS1200/Concepts/Domain.md",
     "INFS1200/Concepts/Entity.md",
     "INFS1200/Concepts/Entity Type.md",
