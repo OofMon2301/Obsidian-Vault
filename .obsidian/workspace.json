@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4f794136be9ce8ad",
+        "id": "be97cc1d9e8f9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "74e95c55038fa7a0",
+            "id": "15eabdc1f5ddb9a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "487e690a77782816",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +167,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "487e690a77782816",
+  "active": "15eabdc1f5ddb9a5",
   "lastOpenFiles": [
     "Untitled.base",
     "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
