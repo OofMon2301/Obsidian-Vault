@@ -18,8 +18,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.4"
             }
+          },
+          {
+            "id": "487e690a77782816",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74e95c55038fa7a0",
+  "active": "487e690a77782816",
   "lastOpenFiles": [
     "Untitled.base",
     "INFS1200/Modules/Module 1/Module 1 - Conceptual Data Modelling.md",
